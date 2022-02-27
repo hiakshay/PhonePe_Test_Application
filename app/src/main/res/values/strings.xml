@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhonePe Test Application</string>
+    <string name="make_requests">Make request</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="Bottom_Sheet">Bottom Sheet</string>
+    <string name="filter_list_des">Filter List</string>
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+    <string name="playlist">Playlist</string>
+</resources>

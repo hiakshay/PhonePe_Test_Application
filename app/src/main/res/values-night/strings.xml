@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="make_requests">Make request</string>
+    <string name="Bottom_Sheet">Bottom Sheet</string>
+    <string name="filter_list_des">Filter List</string>
+</resources>
